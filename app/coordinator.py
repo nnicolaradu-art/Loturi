@@ -62,4 +62,4 @@ def collect_lot_urls_from_results(results_url: str, paginate: bool) -> List[str]
 # - collect all lot links on the page
 # - if paginate: iterate next pages until end
 # - if single_page: stop after first page
-return [
+return []
