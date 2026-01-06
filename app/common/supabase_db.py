@@ -50,4 +50,4 @@ payload = {
 "position_index": position_index,
 "width_px": width_px,
 "height_px": height_px,
-sb.table("lot_assets").insert(payload).execute( )
+sb.table("lot_assets").insert(payload).execute()
